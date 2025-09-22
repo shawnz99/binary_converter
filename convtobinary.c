@@ -38,7 +38,11 @@ void intToBinary(int n) {
 
 
 int main(int argc, char **argv){
+  //TODO: Read from stdin
+  //TODO: Be able to convert strings to binary
+  //TODO: Be able to convert strings to binary from stdin
   intToBinary(305);
+
 
 
  return 0;   
